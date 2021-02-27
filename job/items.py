@@ -6,7 +6,7 @@
 import scrapy
 
 
-class JobItem(scrapy.Item):
+class JobPagination(scrapy.Item):
     # define the fields for your item here like:
     name = scrapy.Field()
     url = scrapy.Field()

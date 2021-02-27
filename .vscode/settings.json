@@ -4,10 +4,16 @@
         "titleBar.activeForeground": "#15202b",
         "titleBar.inactiveBackground": "#1fb4d099",
         "titleBar.inactiveForeground": "#15202b99",
-        "editorGroup.border": "#40c9e2",
-        "panel.border": "#40c9e2",
-        "sideBar.border": "#40c9e2",
-        "tab.activeBorder": "#40c9e2"
+        "activityBar.activeBackground": "#40c9e2",
+        "activityBar.activeBorder": "#dd22c0",
+        "activityBar.background": "#40c9e2",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#dd22c0",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#1fb4d0",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#188ea4"
     },
     "peacock.color": "#1fb4d0",
     "python.pythonPath": "C:\\Users\\lrcno\\Anaconda3\\python.exe"
