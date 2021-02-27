@@ -1,0 +1,14 @@
+{
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#1fb4d0",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#1fb4d099",
+        "titleBar.inactiveForeground": "#15202b99",
+        "editorGroup.border": "#40c9e2",
+        "panel.border": "#40c9e2",
+        "sideBar.border": "#40c9e2",
+        "tab.activeBorder": "#40c9e2"
+    },
+    "peacock.color": "#1fb4d0",
+    "python.pythonPath": "C:\\Users\\lrcno\\Anaconda3\\python.exe"
+}
